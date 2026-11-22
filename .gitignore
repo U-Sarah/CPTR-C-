@@ -1,0 +1,16 @@
+build/
+cmake-build-*/
+
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.pdb
+*.DS_Store
+*.swp
+*.log
+*.dSYM/
+.vscode/
